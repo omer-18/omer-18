@@ -80,13 +80,8 @@
 ###
 
 <div align="center">
-  <img height="204" src="https://imgflip.com/i/9v8ozj"  />
+  <img height="500" src="stars.jpg"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
-</div>
 
 ###
