@@ -1,7 +1,5 @@
 <h2 align="left">Hi👋! I'm Omer :)</h2>
 
-###
-
 <table style="border: none; width: 100%;">
   <tr>
     <td style="vertical-align: top; width: 65%; border: none;">
@@ -25,11 +23,7 @@
   </tr>
 </table>
 
-###
-
 <h3 align="left">💻 Tech Stack:</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
@@ -81,21 +75,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
 </div>
 
-###
-
 <h3 align="left">📊 GitHub Stats:</h3>
-
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=omer-18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omer-18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph" />
 </div>
 
-###
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/omer-18/omer-18/output/snake.svg" alt="Snake animation" />
-
-###
