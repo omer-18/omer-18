@@ -2,7 +2,27 @@
 
 ###
 
-<p align="left">👨🏻‍💻 Aspiring Canadian Engineer<br>👩🏻‍🎓 Studying Mechatronics Engineering at University of Waterloo<br>🤹🏼‍♂️ Currently a part of the Waterloo Aerial Robotics Group<br><br>🎨 What are my hobbies?<br><br> - 📚 Outside of engineering, I enjoy learning languages, volunteering, and playing volleyball <br> - 🎧 I love listening to music, Some of my favourite artists currently are<br>Hojean, Tory Lanez and Zico</p>
+<table>
+  <tr>
+    <td>
+
+<p align="left">
+👨🏻‍💻 Aspiring Canadian Engineer<br>
+👩🏻‍🎓 Studying Mechatronics Engineering at University of Waterloo<br>
+🤹🏼‍♂️ Currently a part of the Waterloo Aerial Robotics Group<br><br>
+
+🎨 What are my hobbies?<br><br>
+- 📚 Outside of engineering, I enjoy learning languages, volunteering, and playing volleyball <br>
+- 🎧 I love listening to music, Some of my favourite artists currently are<br>
+Hojean, Tory Lanez and Zico
+</p>
+
+</td>
+<td>
+  <img src="https://raw.githubusercontent.com/omer-18/omer-18/main/stars.jpg" width="300" />
+</td>
+  </tr>
+</table>
 
 ###
 
@@ -67,7 +87,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omer-18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=omer-18&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omer-18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -76,12 +96,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/omer-18/omer-18/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img height="500" src="stars.jpg"  />
-</div>
-
 
 ###
