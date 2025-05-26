@@ -2,25 +2,28 @@
 
 ###
 
-<table>
+<table style="border: none; width: 100%;">
   <tr>
-    <td>
+    <td style="vertical-align: top; width: 65%; border: none;">
+
+<h2 align="left">Hi 👋! I'm Omer :)</h2>
 
 <p align="left">
 👨🏻‍💻 Aspiring Canadian Engineer<br>
 👩🏻‍🎓 Studying Mechatronics Engineering at University of Waterloo<br>
 🤹🏼‍♂️ Currently a part of the Waterloo Aerial Robotics Group<br><br>
 
-🎨 What are my hobbies?<br><br>
-- 📚 Outside of engineering, I enjoy learning languages, volunteering, and playing volleyball <br>
-- 🎧 I love listening to music, Some of my favourite artists currently are<br>
-Hojean, Tory Lanez and Zico
+🎨 <strong>What are my hobbies?</strong><br><br>
+<ul>
+  <li>📚 Outside of engineering, I enjoy learning languages, volunteering, and playing volleyball</li>
+  <li>🎧 I love listening to music. Some of my favourite artists currently are Hojean, Tory Lanez, and Zico</li>
+</ul>
 </p>
 
-</td>
-<td>
-  <img src="https://raw.githubusercontent.com/omer-18/omer-18/main/stars.jpg" width="150" height = "300"/>
-</td>
+    </td>
+    <td style="text-align: center; vertical-align: middle; border: none;">
+      <img src="https://raw.githubusercontent.com/omer-18/omer-18/main/stars.jpg" width="250" />
+    </td>
   </tr>
 </table>
 
