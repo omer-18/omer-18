@@ -13,8 +13,7 @@
 
 🎨 What are my hobbies?<br><br>
 - 📚 Outside of engineering, I enjoy learning languages, volunteering, and playing volleyball <br>
-- 🎧 I love listening to music, Some of my favourite artists currently are<br>
-Hojean, Tory Lanez and Zico
+- 🎧 I love listening to music, Some of my favourite artists currently are Hojean, Tory Lanez and Zico
 </p>
 
 </td>
