@@ -19,7 +19,7 @@ Hojean, Tory Lanez and Zico
 
 </td>
 <td style="text-align: center; vertical-align: middle; border: none;">
-  <img src="stars.jpg" width="200" height = "400"/>
+  <img src="stars.jpg" width="175" height = "350"/>
 </td>
   </tr>
 </table>
