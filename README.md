@@ -19,7 +19,7 @@ Hojean, Tory Lanez and Zico
 
 </td>
 <td>
-  <img src="https://raw.githubusercontent.com/omer-18/omer-18/main/stars.jpg" width="300" height = "600"/>
+  <img src="https://raw.githubusercontent.com/omer-18/omer-18/main/stars.jpg" width="150" height = "300"/>
 </td>
   </tr>
 </table>
